@@ -32,7 +32,7 @@ This project analyzes `zomato.csv`, a dataset of Bangalore restaurants, to under
 
 ```
 ├── Zomato_Bangalore_Analysis.ipynb   # Main analysis notebook
-├── zomato.csv                        # Dataset (add your own copy)
+├── zomato.csv                        # Dataset 
 └── README.md
 ```
 
